@@ -97,6 +97,34 @@
         "contactEmail": "contact@dolorsitamet.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "ede8",
+      "title": "Node Dev",
+      "type": "Full-Time",
+      "location": "Random Com",
+      "description": "good job profile",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Google",
+        "description": "Nice company",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "72ad",
+      "title": "Web dev",
+      "type": "Internship",
+      "location": "Delhi, India",
+      "description": "Great job profile",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Amazon",
+        "description": "An ecommerce company.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
     }
   ]
 }
